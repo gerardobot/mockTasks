@@ -1,10 +1,10 @@
 {
-  "statusCode": "",
-  "code": "",
+  "statusCode": "OK",
+  "code": "200",
   "message": "",
   "data": {
-    "mediatorCode": "mediatorCode",
-    "mediatorName": "mediatorName",
+    "mediatorCode": "MZABRPM",
+    "mediatorName": "John Doe",
     "listTasks": [
       {
         "taskId": "001",
